@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Victor e eu sou um estudante de Desenvolvimento de Sistemas</p>
+<p align="left">Meu nome é Victor e eu sou um estudante de Ciências da Computação na Unit</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou aprendendo: Programação de Aplicativos<br>🎯 Metas: Alcançar mutitos conhecimentos<br>🎲 Curiosidade: Toco Violão</p>
+<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou no primeiro perido<br>🎯 Metas: Alcançar mutitos conhecimentos<br>🎲 Curiosidade: Toco Violão</p>
 
 ###
 
