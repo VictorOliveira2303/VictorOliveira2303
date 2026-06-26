@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou no primeiro perido<br>🎯 Metas: Alcançar mutitos conhecimentos<br>🎲 Curiosidade: Toco Violão</p>
+<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou no primeiro período<br>🎯 Metas: Alcançar mutitos conhecimentos<br>🎲 Curiosidade: Toco Violão</p>
 
 ###
 
